@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.skinbase.16" name="[COLOR aqua]Guidos SkinBase 16[/COLOR]" version="3.0.05" provider-name="[COLOR lime]GUIDO | [COLOR skyblue]Kodiman[/COLOR] | HSK-DE[/COLOR]">
+	<extension point="xbmc.addon.repository" name="Guidos Master Skinbase1 REPOSITORY">
+	<info compressed="false">https://raw.githubusercontent.com/kaffepausse71/skinbase16/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/kaffepausse71/skinbase16/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/kaffepausse71/skinbase16/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Guidos SkinBase Kodi 16 Repo</summary>
+		<description>Hier findet ihr alle Skins in grüner Schrift für Kodi 16. Viel Spass.</description>
+		<platform>all</platform>
+        <forum>https://www.facebook.com/groups/716337198478240/</forum>
+        <website>https://www.facebook.com/groups/716337198478240/</website>
+	</extension>
+	<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+			<screenshot>resources/screenshot001.jpg</screenshot>
+			<screenshot>resources/screenshot002.jpg</screenshot>
+			<screenshot>resources/screenshot003.jpg</screenshot>
+			<screenshot>resources/screenshot004.jpg</screenshot>
+			<screenshot>resources/screenshot005.jpg</screenshot>
+		</assets>
+</addon>
+
