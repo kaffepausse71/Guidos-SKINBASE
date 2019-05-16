@@ -1,2 +1,2 @@
-# SKINBASE17
+# Guidos SKINBASE
 The Biggest SKINBASE Repo off the World.
