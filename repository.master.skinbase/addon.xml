@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.master.skinbase" name="[COLOR orange]G[/COLOR]UIDO[COLOR orange]S[/COLOR] [COLOR orange]S[/COLOR]KINBAS[COLOR orange]E[/COLOR]" version="3.3.20" provider-name="[COLOR orange]GUIDO[/COLOR] | [COLOR skyblue]Kodiman[/COLOR] | [COLOR orange]HSK-DE[/COLOR]">
+<addon id="repository.master.skinbase" name="[COLOR orange]G[/COLOR]UIDO[COLOR orange]S[/COLOR] [COLOR orange]S[/COLOR]KINBAS[COLOR orange]E[/COLOR]" version="3.3.35" provider-name="[COLOR orange]GUIDO[/COLOR] | [COLOR skyblue]Kodiman[/COLOR] | [COLOR orange]HSK-DE[/COLOR]">
 	<extension point="xbmc.addon.repository" name="GUIDOS SKINBASE REPO">
+	<dir>
+		<info compressed="false">https://downloads.guidos-skinbase.de/repos/addons.xml</info>
+		<checksum>https://downloads.guidos-skinbase.de/repos/addons.xml.md5</checksum>
+		<datadir zip="true">https://downloads.guidos-skinbase.de/repos/</datadir>
+	</dir>
+	<dir>
+		<info compressed="false">https://downloads.guidos-skinbase.de/addons/addons.xml</info>
+		<checksum>https://downloads.guidos-skinbase.de/addons/addons.xml.md5</checksum>
+		<datadir zip="true">https://downloads.guidos-skinbase.de/addons/</datadir>
+	</dir>
+	<dir minversion="16.9.0">
+		<info compressed="false">https://downloads.guidos-skinbase.de/addons17/addons.xml</info>
+		<checksum>https://downloads.guidos-skinbase.de/addons17/addons.xml.md5</checksum>
+		<datadir zip="true">https://downloads.guidos-skinbase.de/addons17/</datadir>
+	</dir>
+	<dir minversion="17.9.0">
+		<info compressed="false">https://downloads.guidos-skinbase.de/addons18/addons.xml</info>
+		<checksum>https://downloads.guidos-skinbase.de/addons18/addons.xml.md5</checksum>
+		<datadir zip="true">https://downloads.guidos-skinbase.de/addons18/</datadir>
+	</dir>
+	<dir minversion="18.9.0">
+		<info compressed="false">https://downloads.guidos-skinbase.de/addons19/addons.xml</info>
+		<checksum>https://downloads.guidos-skinbase.de/addons19/addons.xml.md5</checksum>
+		<datadir zip="true">https://downloads.guidos-skinbase.de/addons19/</datadir>
+	</dir>
+	<dir>
+		<info compressed="false">https://downloads.guidos-skinbase.de/kodi_16_skins/addons.xml</info>
+		<checksum>https://downloads.guidos-skinbase.de/kodi_16_skins/addons.xml.md5</checksum>
+		<datadir zip="true">https://downloads.guidos-skinbase.de/kodi_16_skins/</datadir>
+	</dir>
 	<dir>
 		<info compressed="false">https://downloads.guidos-skinbase.de/kodi_17_skins/addons.xml</info>
 		<checksum>https://downloads.guidos-skinbase.de/kodi_17_skins/addons.xml.md5</checksum>
@@ -12,23 +42,19 @@
 		<datadir zip="true">https://downloads.guidos-skinbase.de/kodi_18_skins/</datadir>
 	</dir>
 	<dir>
-		<info compressed="false">https://raw.githubusercontent.com/kaffepausse71/skinbase16/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/kaffepausse71/skinbase16/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/kaffepausse71/skinbase16/master/</datadir>
+		<info compressed="false">https://downloads.guidos-skinbase.de/kodi_19_skins/addons.xml</info>
+		<checksum>https://downloads.guidos-skinbase.de/kodi_19_skins/addons.xml.md5</checksum>
+		<datadir zip="true">https://downloads.guidos-skinbase.de/kodi_19_skins/</datadir>
 	</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>[COLOR orange]G[/COLOR]uido[COLOR orange]s[/COLOR] [COLOR orange]S[/COLOR]KINBAS[COLOR orange]E[/COLOR] Repo</summary>
-		<description>
-In Guidos SKINBASE findet ihr Skins für die Kodi Versionen von 16 bis 18 aus aller Welt.
-Die Skins sind für die jeweiligen Kodi Versionen farblich und mit Nummern markiert.Des weiteren findet ihr auch weitere Repos für Skins sowie Bilder Addons für Hintergrundbilder und Addons die für die Skins benötigt werden.
-Die SkinBase wird ständig erweitert und verbessert.Viel Spass wünschen euch Guido und Waller.KODI 17 Schrift [COLOR aqua]Aqua[/COLOR],KODI 18 Schrift [COLOR orange]Orange[/COLOR].
-Hinzugekommen sind Skins mit Topics Loader , diese sind EXTRA mit Roter schrift versehen und ermöglichen mit einem Skin unzählige Themen in einem Skin zu laden.
-In Guido's SKINBASE you will find skins from all over the world for the Kodi versions 16 to 18.
-The skins are color marked and numbered for each Kodi version. 
-You will also find more repos with skins, pictures addons for wallpapers, and also addons needed for these skins. Other diverse addons are also included.
-The SkinBase is constantly expanding and improving. Have fun Guido and Waller. KODI 17 font [COLOR aqua]Aqua[/COLOR], KODI 18 font [COLOR orange]Orange[/COLOR].
-    </description>
+<description lang="de_DE">In Guidos SKINBASE findet ihr Skins für die Kodi Versionen von 16 bis 19 aus aller Welt.
+Die Skins sind für die jeweiligen Kodi Versionen farblich markiert. Des weiteren findet ihr auch weitere Repos sowie alle Addons Abhängikeiten in der Repo die für die Skins benötigt werden.
+Die SkinBase wird ständig erweitert und verbessert. Hinzugekommen sind Skins mit Topics Loader , diese sind EXTRA mit Roter schrift versehen und ermöglichen mit einem Skin unzählige Themen oder Hintergrundbilder zu wechseln. Viel Spass wünschen euch Guido und sowie das SKINBASE TEAM.</description>
+		<description lang="en_GB">In Guidos SKINBASE you will find skins for the Kodi versions from 16 to 19 from all over the world.
+The skins are color-coded for the respective Kodi versions. Furthermore, you will also find other repos and all addons dependencies in the repo that are required for the skins.
+The SkinBase is constantly being expanded and improved. Added to this are skins with Topics Loader, these are EXTRA with red letters and allow you to change countless themes or background images with one skin. Guido and the SKINBASE TEAM wish you lots of fun.</description>
         <platform>all</platform>
 		<assets>
 			<icon>resources/icon.png</icon>
