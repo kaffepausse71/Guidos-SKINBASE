@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.skinbase.17" name="[COLOR orange]G[/COLOR]UIDO[COLOR orange]S[/COLOR] [COLOR orange]S[/COLOR]KINBAS[COLOR orange]E[/COLOR] Only Skins for 17" version="1.1.4" provider-name="[COLOR orange]GUIDO[/COLOR] | [COLOR skyblue]Kodiman[/COLOR] | [COLOR orange]HSK-DE[/COLOR]">
+<addon id="repository.skinbase.17" name="[COLOR orange]G[/COLOR]UIDO[COLOR orange]S[/COLOR] [COLOR orange]S[/COLOR]KINBAS[COLOR orange]E[/COLOR] Only Skins for 17" version="1.1.16" provider-name="[COLOR orange]GUIDO[/COLOR] | [COLOR skyblue]Kodiman[/COLOR] | [COLOR orange]HSK-DE[/COLOR]">
 	<extension point="xbmc.addon.repository" name="GUIDOS SKINBASE REPO">
 	<dir>
-		<info compressed="false">https://downloads.guidos-skinbase.de/kodi_17_skins/addons.xml</info>
-		<checksum>https://downloads.guidos-skinbase.de/kodi_17_skins/addons.xml.md5</checksum>
-		<datadir zip="true">https://downloads.guidos-skinbase.de/kodi_17_skins/</datadir>
+		<info compressed="false">https://downloads.guidos-skinbase.de/skins17/addons.xml</info>
+		<checksum>https://downloads.guidos-skinbase.de/skins17/addons.xml.md5</checksum>
+		<datadir zip="true">https://downloads.guidos-skinbase.de/skins17/</datadir>
 	</dir>
 	<dir>
 		<info compressed="false">https://downloads.guidos-skinbase.de/addons17/addons.xml</info>
@@ -29,11 +29,16 @@ The SkinBase is constantly being expanded and improved. Added to this are skins 
 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
-			<screenshot>resources/screenshot001.jpg</screenshot>
-			<screenshot>resources/screenshot002.jpg</screenshot>
-			<screenshot>resources/screenshot003.jpg</screenshot>
-			<screenshot>resources/screenshot004.jpg</screenshot>
-			<screenshot>resources/screenshot005.jpg</screenshot>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+			<screenshot>resources/screenshot-06.jpg</screenshot>
+			<screenshot>resources/screenshot-07.jpg</screenshot>
+			<screenshot>resources/screenshot-08.jpg</screenshot>
+			<screenshot>resources/screenshot-09.jpg</screenshot>
+			<screenshot>resources/screenshot-10.jpg</screenshot>
 		</assets>
 	</extension>
 </addon>
